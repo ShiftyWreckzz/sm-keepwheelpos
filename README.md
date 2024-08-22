@@ -1,8 +1,10 @@
 # Shifty_99's Keep Wheel Position
 
-When a player exit their vehicle and holds the steering wheel past a threshold that steering position will be saved. This is synced server side, saving the steering angle position for all clients. A big thanks to Logan Mcgee for creating the original script!
+When a player exits their vehicle while holding the steering wheel past a certain threshold, the steering angle is saved and synced server-side for all players. A big thanks to Logan Mcgee for creating the original script!
 
-If you find a bug or want to request a new feature please feel free to use the Issues tab.
+If you encounter any bugs or have feature requests, please use the Issues tab.
+
+If you have any improvements on the code, feel free to use the Pull request tab.
 
 # Installation
 * Download the ZIP.
